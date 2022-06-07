@@ -36,3 +36,7 @@ Temporary Items
 ###############
 #software
 #doc
+
+# Temporary Jupyter lab files
+#############
+.ipynb_checkpoints

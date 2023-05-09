@@ -1,10 +1,10 @@
 # [**GotEnzymes**](https://metabolicatlas.org/gotenzymes) 
 
-This repository contains code for data collection, processing and prediction for the [**GotEnzymes database**](https://metabolicatlas.org/gotenzymes). GotEnzymes provides open access to over 25'795'560 predicted k<sub>cat</sub> for +5.8 million unique sequences and 4,147 compounds from 8,099 species with the cutting-edge artificial intelligence tools.
+This repository contains code for data collection, processing and prediction for the [**GotEnzymes database**](https://metabolicatlas.org/gotenzymes). GotEnzymes provides open access to over 25,795,560 predicted k<sub>cat</sub> for 5.8 million unique sequences and 4,147 compounds from 8,099 species with the cutting-edge artificial intelligence tools.
 
 ## Cite us
 
-Article under consideration
+Li, F., Chen, Y., Anton, M., & Nielsen, J. (2023). GotEnzymes: an extensive database of enzyme parameter predictions. Nucleic Acids Research, 51(D1), D583-D586.
 
 
 ## Contact
